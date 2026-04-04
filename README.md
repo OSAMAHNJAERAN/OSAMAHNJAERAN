@@ -5,25 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osamahnjaeran" alt="osamahnjaeran" /></a> </p>
 
-- 🔭 I’m currently working on [ghghg](#)
 
-- 🌱 I’m currently learning **hjh**
-
-- 👯 I’m looking to collaborate on [jkjk](#)
-
-- 🤝 I’m looking for help with [jkjk](#)
-
-- 👨‍💻 All of my projects are available at [#](#)
-
-- 📝 I regularly write articles on [hjhj](hjhj)
-
-- 💬 Ask me about **hjhj**
-
-- 📫 How to reach me **jaeran.osamah@gmail.com**
-
-- 📄 Know about my experiences [hjhj](hjhj)
-
-- ⚡ Fun fact **hjhj**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
